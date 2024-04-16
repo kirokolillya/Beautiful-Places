@@ -206,7 +206,7 @@ justify-content: center;
 
     .container {
    display: inline-block;
-   float: right;
+  
   }
 
 
@@ -218,7 +218,7 @@ margin-bottom: 0;
 	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 	font-size: 17px;
 	text-align: center;
-		 float: right;
+		
 	background-color: #c2c9ca;
    height: 35px;
    width: 100px;
@@ -230,7 +230,7 @@ margin-bottom: 0;
 
 .signin {
 	display: flex;
-	 float: right;
+	
 	justify-content: center;
 	align-items: center;
 	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
@@ -248,7 +248,7 @@ margin-bottom: 0;
 
 .write {
 	display: flex;
- float: right;
+ 
 	justify-content: center;
 	align-items: center;
 	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
@@ -281,98 +281,10 @@ font-size: 17px;
    width: 100px;
 font-size: 17px;
 }
-.logo{
-	height: 100%;
-	width: 100%;
-}
-
-}
 
 
-@media screen and (max-width: 688px){
- header{
- 	display: flex;
- 	height: 180px;
- }
 
 
-    .container {
-   display: inline-block;
-   float: right;
-  }
-
-
-.about{
-	display: flex;
-
-	justify-content: center;
-	align-items: center;
-	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-	font-size: 17px;
-	text-align: center;
-		 float: right;
-	background-color: #c2c9ca;
-   height: 35px;
-   width: 100px;
-   border-radius: 5px;
-   box-shadow: 0 0 10px lightgray;
-
-
-}
-
-.signin {
-	display: flex;
-	 float: right;
-	justify-content: center;
-	align-items: center;
-	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-	font-size: 17px;
-	text-align: center;
-
-	background-color: #c2c9ca;
-   height: 35px;
-   width: 100px;
-   border-radius: 5px;
-   box-shadow: 0 0 10px lightgray;
-
-
-}
-
-.write {
-	display: flex;
- float: right;
-	justify-content: center;
-	align-items: center;
-	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-	font-size: 17px;
-	text-align: center;
-	
-	background-color: black;
- height: 35px;
-   width: 100px;
-   border-radius: 5px;
-   box-shadow: 0 0 10px lightgray;
-
-
-}
-
-.signin:hover{
- height: 35px;
-   width: 100px;
-font-size: 17px;
-}
-
-.write:hover{
- height: 35px;
-   width: 100px;
- font-size: 17px;
-}
-
-.about:hover{
- height: 35px;
-   width: 100px;
-font-size: 17px;
-}
 
 
 
