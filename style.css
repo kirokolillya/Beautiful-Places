@@ -157,11 +157,12 @@ grid-area: content;
 }
 
 .item{
-width: 70%;
+width: 80%;
 	font-size: 20px;
 	padding: 10px;
 border: 1px solid black;
 }
+
 
 .pic{
 	
