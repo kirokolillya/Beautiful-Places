@@ -213,7 +213,7 @@ margin-bottom: 0;
 	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 	font-size: 17px;
 	text-align: center;
-		 float: right;
+		 
 	background-color: #c2c9ca;
    height: 35px;
    width: 100px;
@@ -225,7 +225,7 @@ margin-bottom: 0;
 
 .signin {
 	display: flex;
-	 float: right;
+	 
 	justify-content: center;
 	align-items: center;
 	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
@@ -243,7 +243,7 @@ margin-bottom: 0;
 
 .write {
 	display: flex;
- float: right;
+
 	justify-content: center;
 	align-items: center;
 	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
